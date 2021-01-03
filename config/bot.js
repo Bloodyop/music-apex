@@ -9,7 +9,7 @@ module.exports = {
 
     discord: {
         prefix: '+',
-        activity: '+help / Happy New Year 2021'
+        activity: '+help +play +invite #TIDOP'
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
